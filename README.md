@@ -1,5 +1,6 @@
 # anydoor
 Tiny NodeJS Static Web server
+静态资源服务
 
 ## 安装
 
